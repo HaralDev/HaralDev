@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Harald Luiks 🛰️
 
-<!--
-**HaralDev/HaralDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Director of Spacecraft Integration & Testing | Saudi Space Agency**
 
-Here are some ideas to get you started:
+I lead spacecraft integration and testing programmes at the Saudi Space Agency,
+building Saudi Arabia's sovereign space engineering capability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Career highlights:**
+- 🛰 12 satellites in orbit
+- 🚀 6 space propulsion projects managed
+- 🤖 MMX rover mission — thermal testing, DLR Oberpfaffenhofen
+- 🌍 Worked in Japan, Germany, Netherlands, Saudi Arabia
+- 🗣 Panel Moderator, International Space Debris Conference 2024 (ITU/UNOOSA)
+
+**Open source:**
+📚 [Space Systems Engineering Resources](https://github.com/HaralDev/Space-Systems-Engineering-Resources)
+— A curated reference library for space mission design, tools, and methodologies.
+
+**Find me:**
+🔗 [haraldev.github.io](https://haraldev.github.io)
+💼 [linkedin.com/in/luiks](https://linkedin.com/in/luiks)
