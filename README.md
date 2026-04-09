@@ -21,11 +21,11 @@ I lead spacecraft integration and testing programmes at the **Saudi Space Agency
 My career spans the full mission lifecycle — from early concurrent design sessions and systems engineering, through cleanroom integration, environmental verification testing, launch, and operations — across four countries and over six years.
 
 ```
-🛰  12 satellites in orbit
+ 🛰   12 satellites in orbit
 🚀   6 space propulsion projects managed
 🤖   MMX rover mission — thermal testing for the first landing on Phobos
 🌍   Worked in 🇯🇵 Japan · 🇩🇪 Germany · 🇳🇱 Netherlands · 🇸🇦 Saudi Arabia
-🗣   Panel Moderator, International Space Debris Conference 2024 (ITU / UNOOSA)
+🗣    Panel Moderator, International Space Debris Conference 2024 (ITU / UNOOSA)
 ```
 
 ---
@@ -45,8 +45,13 @@ My career spans the full mission lifecycle — from early concurrent design sess
 
 ## Public Repositories
 
+## Public Repositories
+
 ### 📚 [Space-Systems-Engineering-Resources](https://github.com/HaralDev/Space-Systems-Engineering-Resources)
 A curated library of resources for space mission design — tools, visualisations, reference materials, and scripts. Built to make space systems knowledge more accessible and less scattered.
+
+### 🛰️ [nasa-smallsat-soa](https://github.com/HaralDev/nasa-smallsat-soa)
+NASA's *State-of-the-Art of Small Spacecraft Technology* report (2024 edition) extracted into structured JSON — 113 tables spanning propulsion, power, communications, GNC, thermal, and more. Includes a Python scraper and automated annual update via GitHub Actions.
 
 ### 🔬 [GraphtecPython](https://github.com/HaralDev/GraphtecPython)
 Python interface for the Graphtec GL840 data logger via PyVISA. Minimum working example for EGSE data acquisition — useful for AIT test setups.
