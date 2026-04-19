@@ -45,8 +45,6 @@ My career spans the full mission lifecycle — from early concurrent design sess
 
 ## Public Repositories
 
-## Public Repositories
-
 ### 📚 [Space-Systems-Engineering-Resources](https://github.com/HaralDev/Space-Systems-Engineering-Resources)
 A curated library of resources for space mission design — tools, visualisations, reference materials, and scripts. Built to make space systems knowledge more accessible and less scattered.
 
