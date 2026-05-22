@@ -101,6 +101,4 @@ Thesis research conducted at DLR Oberpfaffenhofen on the MMX rover mission.
 
 <div align="center">
 
-*"The goal of space exploration is not to reach the stars — it's to develop the human capacity to do impossible things."*
-
 </div>
