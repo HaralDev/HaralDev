@@ -21,7 +21,7 @@ I lead spacecraft integration and testing programmes at the **Saudi Space Agency
 My career spans the full mission lifecycle — from early concurrent design sessions and systems engineering, through cleanroom integration, environmental verification testing, launch, and operations — across four countries and over six years.
 
 ```
- 🛰   12 satellites in orbit
+ 🛰   13 satellites in orbit
 🚀   6 space propulsion projects managed
 🤖   MMX rover mission — thermal testing for the first landing on Phobos
 🌍   Worked in 🇯🇵 Japan · 🇩🇪 Germany · 🇳🇱 Netherlands · 🇸🇦 Saudi Arabia
